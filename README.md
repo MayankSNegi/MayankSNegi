@@ -57,16 +57,16 @@ Computer Science Engineering Student
 </a><br>
 <a href="https://leetcode.com/u/MayankSNegi/" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="mayanknegi23" height="32" width="32" /></a>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Leetcode%20icon%20(Dark).png" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Leetcode%20icon.png"/>
+<img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Leetcode%20icon.png" height="32" width="32" /></a>
 </picture>
 </a>
 <a href="https://www.codechef.com/users/mayanknegi" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" />
-<img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="mayanknegi" height="32" width="32" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon(Dark).svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon.svg" />
+<img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon.svg" alt="mayanknegi" height="32" width="32" />
 </picture>
 </a>
 </p>
