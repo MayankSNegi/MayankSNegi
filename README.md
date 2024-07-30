@@ -17,9 +17,9 @@ Computer Science Engineering Student
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other: Data Analysis, Algorithm Design, Problem Solving<br><br>
 ✉️  You can contact me at [work.mayanknegi@gmail.com](mailto:work.mayanknegi@gmail.com)
 
-<a href="https://www.github.com/mayanknegi-tech" target="_blank" rel="noreferrer"><br>
-<img src="https://img.shields.io/github/followers/mayanknegi-tech?logo=github&style=for-the-badge&color=f97316&labelColor=181824" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanknegi-tech&label=Profile%20views&color=0e75b6&style=flat" alt="mayanknegi-tech" /> </p>
+<a href="https://www.github.com/MayankSNegi" target="_blank" rel="noreferrer"><br>
+<img src="https://img.shields.io/github/followers/MayankSNegi?logo=github&style=for-the-badge&color=f97316&labelColor=181824" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MayankSNegi&label=Profile%20views&color=0e75b6&style=flat" alt="MayankSNegi" /> </p>
 
 ### Skills 
 <p align="left">
@@ -27,7 +27,7 @@ Computer Science Engineering Student
 
 ### Socials  
 <p align="left">
-<a href="https://www.github.com/mayanknegi-tech" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/MayankSNegi" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -71,14 +71,14 @@ Computer Science Engineering Student
 </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanknegi-tech" alt="mayanknegi-tech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MayankSNegi" alt="MayankSNegi" /></a> </p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mayanknegi-tech"><img src="https://github-readme-stats.vercel.app/api?username=mayanknegi-tech&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=64748b&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="mayanknegi-tech's GitHub stats" /></a>
+<a href="http://www.github.com/MayankSNegi"><img src="https://github-readme-stats.vercel.app/api?username=MayankSNegi&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=64748b&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="MayankSNegi's GitHub stats" /></a>
 
-<a href="http://www.github.com/mayanknegi-tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanknegi-tech&stroke=64748b&background=181824&ring=ef4444&fire=ef4444&currStreakNum=64748b&currStreakLabel=ef4444&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/MayankSNegi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankSNegi&stroke=64748b&background=181824&ring=ef4444&fire=ef4444&currStreakNum=64748b&currStreakLabel=ef4444&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/mayanknegi-tech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanknegi-tech&langs_count=10&title_color=ef4444&text_color=64748b&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MayankSNegi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSNegi&langs_count=10&title_color=ef4444&text_color=64748b&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
