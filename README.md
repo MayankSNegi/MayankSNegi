@@ -11,10 +11,11 @@ Computer Science Engineering Student
 📜 Certifications:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global Job Readiness Program by Deakin University Data Visualization by Tata Group<br><br>
 🏆 Achievements:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Coding League 2024 participant<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Coding League 2024 participant<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of State level Hackathon<br><br>
 🔧 Skills:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: C++, Python<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other: Data Analysis, Algorithm Design, Problem Solving<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: C++, Python, Java<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other: Algorithm Design, Problem Solving<br><br>
 ✉️  You can contact me at [work.mayanknegi@gmail.com](mailto:work.mayanknegi@gmail.com)
 
 <a href="https://www.github.com/MayankSNegi" target="_blank" rel="noreferrer"><br>
@@ -62,7 +63,7 @@ Computer Science Engineering Student
 <img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Leetcode%20icon.png" alt="MayankSNegi" height="32" width="32" /></a>
 </picture>
 </a>
-<a href="https://www.codechef.com/users/mayanknegi" target="_blank" rel="noreferrer">
+<a href="https://www.codechef.com/users/mayanksnegi" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon(Dark).svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon.svg" />
