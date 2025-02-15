@@ -1,22 +1,50 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Mayank Singh Negi
 =========================================================================================================================================
 
-Computer Science Engineering Student
-------------------------------------
-🌍  I'm from Faridabad, Haryana, India<br><br>
-🎓 Second-Year B.Tech CSE Student at Manav Rachna University<br><br>
-🔍 Interests:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI & ML: Passionate about intelligent systems and real-world solutions.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cybersecurity: Focused on data and system protection.<br><br>
-📜 Certifications:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global Job Readiness Program by Deakin University Data Visualization by Tata Group<br><br>
-🏆 Achievements:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Coding League 2024 participant<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of State level Hackathon<br><br>
-🔧 Skills:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: C++, Python, Java<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other: Algorithm Design, Problem Solving<br><br>
-✉️  You can contact me at [work.mayanknegi@gmail.com](mailto:work.mayanknegi@gmail.com)
+🎓 **Second-Year B.Tech CSE Student** | Manav Rachna University, Faridabad (9.02 GPA)  
+📊 **Passionate about Data Analytics & Data Science** | Turning data into meaningful insights  
+
+## 🔍 Interests  
+- **Data Analytics & Data Science**: Leveraging data for impactful decision-making  
+- **Artificial Intelligence & Machine Learning**: Developing smart and scalable solutions
+
+## 🏆 Achievements  
+- **Spark3 Hackathon Winner 2024**- A State Level Hackathon(200+ teams, by HackIndia)
+- **YUDH 1.3 Winner** (August 2024, Coding Club MRU)  
+- **2⭐ Coder @ CodeChef**  
+
+## 📜 Certifications  
+- **Global Job Readiness Program** – Deakin University  
+- **Data Visualization: Empowering Business with Insights** – Tata Group  
+
+## 🛠️ Technical Skills  
+- **Languages**: Python, C++, Java  
+- **Frontend**: HTML5, CSS3, JavaScript, React.js  
+- **Backend**: MySQL, Django  
+- **Tools**: VS Code, GitHub, Canva, Eclipse IDE  
+- **Other**: DSA, OOP, DBMS, Software Engineering, Project Management  
+
+## 💡 Projects  
+### 📊 **MentalGlow-AI**: AI-Powered Mental Wellness Platform | Html5, CSS, JavaScript, React.js 
+- Built with **React (Vite)** for fast rendering and structured components  
+- Designed a **responsive UI**, optimized navigation & dynamic routing with **React Router**  
+- Scalable project structure for future AI-based feature integration
+  
+### 📚 **Online Exam System** | Java  
+- Developed a **Java-based** exam system with **user authentication & timed assessments**  
+- Implemented **OOP principles, multithreading & exception handling**  
+
+### 🏥 **Hospital Management Database** | MySQL  
+- Designed **ER diagrams & complex SQL queries** for managing patient records, billing & appointments  
+- Used **GitHub** for version control and collaboration  
+
+## 🌍 Others  
+- **Languages**: English, Hindi  
+- **Hobby**: [Playing Cricket](https://cricheroes.com/player-profile/12646439/Mayank-Singh-Negi/matches)
+- **LinkedIn**: [MayankSNegi](https://www.linkedin.com/in/mayank-singh-negi-2a7526283/)
+- **Mail**: [work.mayanknegi@gmail.com](mailto:work.mayanknegi@gmail.com)
+
+📊 Always exploring data, solving problems & building impactful solutions! 🚀  
 
 <a href="https://www.github.com/MayankSNegi" target="_blank" rel="noreferrer"><br>
 <img src="https://img.shields.io/github/followers/MayankSNegi?logo=github&style=for-the-badge&color=f97316&labelColor=181824" /></a>
