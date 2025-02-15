@@ -25,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Other**: DSA, OOP, DBMS, Software Engineering, Project Management  
 
 ## 💡 Projects  
-### 📊 **MentalGlow-AI**: AI-Powered Mental Wellness Platform | Html5, CSS, JavaScript, React.js 
+### 📊 **MentalGlow-AI**: AI-Powered Mental Wellness Platform | HTML5, CSS3, JavaScript, React.js 
 - Built with **React (Vite)** for fast rendering and structured components  
 - Designed a **responsive UI**, optimized navigation & dynamic routing with **React Router**  
 - Scalable project structure for future AI-based feature integration
@@ -39,10 +39,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Used **GitHub** for version control and collaboration  
 
 ## 🌍 Others  
+- **Mail**: [work.mayanknegi@gmail.com](mailto:work.mayanknegi@gmail.com)
 - **Languages**: English, Hindi  
 - **Hobby**: [Playing Cricket](https://cricheroes.com/player-profile/12646439/Mayank-Singh-Negi/matches)
-- **LinkedIn**: [MayankSNegi](https://www.linkedin.com/in/mayank-singh-negi-2a7526283/)
-- **Mail**: [work.mayanknegi@gmail.com](mailto:work.mayanknegi@gmail.com)
 
 📊 Always exploring data, solving problems & building impactful solutions! 🚀  
 
@@ -50,9 +49,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://img.shields.io/github/followers/MayankSNegi?logo=github&style=for-the-badge&color=f97316&labelColor=181824" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MayankSNegi&label=Profile%20views&color=0e75b6&style=flat" alt="MayankSNegi" /> </p>
 
-### Skills 
+## My Skill Set 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></p>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+</p>
 
 ### Socials  
 <p align="left">
@@ -63,18 +73,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </picture>
 </a>
-<a href="http://www.instagram.com/_mayank.negi__" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-</picture>
-</a>
 <a href="https://www.linkedin.com/in/mayank-singh-negi-2a7526283" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</picture>
+</a>
+<a href="http://www.instagram.com/_mayank.negi__" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 </picture>
 </a>
 <a href="https://www.x.com/MayankSNegi" target="_blank" rel="noreferrer">
@@ -107,14 +117,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 </p>
 
+# Badges
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MayankSNegi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MayankSNegi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSNegi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MayankSNegi" alt="MayankSNegi" /></a> </p>
 
-### Badges
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MayankSNegi&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MayankSNegi"><img src="https://github-readme-stats.vercel.app/api?username=MayankSNegi&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=64748b&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="MayankSNegi's GitHub stats" /></a>
-
-<a href="http://www.github.com/MayankSNegi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankSNegi&stroke=64748b&background=181824&ring=ef4444&fire=ef4444&currStreakNum=64748b&currStreakLabel=ef4444&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/MayankSNegi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSNegi&langs_count=10&title_color=ef4444&text_color=64748b&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=MayankSNegi&icon=6&color=0)](https://visitcount.itsvg.in)
