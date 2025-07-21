@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Mayank Singh Negi
 =========================================================================================================================================
 
-🎓 **Second-Year B.Tech CSE Student** | Manav Rachna University, Faridabad (9.02 GPA)  
+🎓 **Third-Year B.Tech CSE Student** | Manav Rachna University, Faridabad 
 📊 **Passionate about Data Analytics & Data Science** | Turning data into meaningful insights  
 
 ## 🔍 Interests  
