@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **2⭐ Coder @ CodeChef**  
 
 ## 🛠️ Technical Skills  
-- **Languages**: Python, C++, Java  
+- **Languages**: Python, C++  
 - **Frontend**: HTML5, CSS3, JavaScript, React.js  
 - **Backend**: MySQL, FastAPI
 - **Tools**: VS Code, GitHub, Canva
