@@ -13,15 +13,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **YUDH 1.3 Winner** (August 2024, Coding Club MRU)  
 - **2⭐ Coder @ CodeChef**  
 
-## 📜 Certifications  
-- **Global Job Readiness Program** – Deakin University  
-- **Data Visualization: Empowering Business with Insights** – Tata Group  
-
 ## 🛠️ Technical Skills  
 - **Languages**: Python, C++, Java  
 - **Frontend**: HTML5, CSS3, JavaScript, React.js  
-- **Backend**: MySQL, Django  
-- **Tools**: VS Code, GitHub, Canva, Eclipse IDE  
+- **Backend**: MySQL, FastAPI
+- **Tools**: VS Code, GitHub, Canva
 - **Other**: DSA, OOP, DBMS, Software Engineering, Project Management  
 
 ## 💡 Projects  
@@ -61,7 +57,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<!-- <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>   -->
 </p>
 
 ### Socials  
