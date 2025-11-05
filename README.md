@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 🎓 **Third-Year B.Tech CSE Student** | Manav Rachna University, Faridabad 
-📊 **Passionate about Data Analytics & Data Science** | Turning data into meaningful insights  
+📊 **Passionate about Software Engineering & Data Science** | Turning data into meaningful insights  
 
 ## 🔍 Interests  
 - **Data Analytics & Data Science**: Leveraging data for impactful decision-making  
@@ -25,10 +25,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Other**: DSA, OOP, DBMS, Software Engineering, Project Management  
 
 ## 💡 Projects  
-### 📊 **MentalGlow-AI**: AI-Powered Mental Wellness Platform | HTML5, CSS3, JavaScript, React.js 
-- Built with **React (Vite)** for fast rendering and structured components  
-- Designed a **responsive UI**, optimized navigation & dynamic routing with **React Router**  
-- Scalable project structure for future AI-based feature integration
+### 📊 **MentalGlow-AI**: AI-Powered Mental Wellness Platform | FastAPI, React.js, Python, ML
+- Built an AI-powered mental wellness web platform for universal users.  
+- Integrated ML-based prediction via FastAPI backend and React frontend.
+- Enhanced early mental health awareness through real-time AI insights.
   
 ### 📚 **Online Exam System** | Java  
 - Developed a **Java-based** exam system with **user authentication & timed assessments**  
