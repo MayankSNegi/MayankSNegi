@@ -72,7 +72,7 @@ manual effort.
   <br>
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/flask%20icon/flask%20icon%20(Dark).png" />
     <source media="(prefers-color-scheme: light)" srcset="https://profilinator.rishav.dev/skills-assets/flask.png" />
     <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" width="40" height="40" />
   </picture></a>  
@@ -106,7 +106,7 @@ manual effort.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Microsoft_Office_365_%282013-2019%29.svg" alt="MS Office" width="100" height="100"/></a>
 </p>
 
-## 📫 Connect With Me
+## Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/mayank-singh-negi-2a7526283" target="_blank" rel="noreferrer">
 <picture>
@@ -124,27 +124,27 @@ manual effort.
 </a>
 </p>
 
-## 🧠 Coding Profiles
+## Coding Profiles
 <p align="left">
 <a href="https://leetcode.com/u/MayankSNegi/" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Leetcode%20icon%20(Dark).png" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Leetcode%20icon.png"/>
-<img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Leetcode%20icon.png" alt="MayankSNegi" height="32" width="32" /></a>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/leetcode%20icon/Leetcode%20icon%20(Dark).png" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/leetcode%20icon/Leetcode%20icon.png"/>
+<img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/leetcode%20icon/Leetcode%20icon.png" alt="MayankSNegi" height="32" width="32" /></a>
 </picture>
 </a>
 <a href="https://www.codechef.com/users/mayanksnegi" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon(Dark).svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon.svg" />
-<img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon.svg" alt="mayanksnegi" height="32" width="32" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon/codechef%20icon(Dark).svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon/codechef%20icon.svg" />
+<img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codechef%20icon/codechef%20icon.svg" alt="mayanksnegi" height="32" width="32" />
 </picture>
 </a>
 <a href="https://codeforces.com/profile/mayanknegi23" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/codeforces%20icon%20(Dark).svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Codeforces%20icon.svg" />
-<img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Codeforces%20icon.svg" alt="mayanknegi23" height="32" width="32" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Codeforces%20icon/codeforces%20icon%20(Dark).svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Codeforces%20icon/Codeforces%20icon.svg" />
+<img src="https://github.com/MayankSNegi/MayankSNegi/blob/main/assets/icons/Codeforces%20icon/Codeforces%20icon.svg" alt="mayanknegi23" height="32" width="32" />
 </picture>
 </a>
 </p>
