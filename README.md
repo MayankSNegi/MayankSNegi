@@ -108,7 +108,7 @@ manual effort.
 
 ## Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/mayank-singh-negi-2a7526283" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/mayanksnegi" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
