@@ -8,8 +8,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- **Mail**: [work.mayanknegi@gmail.com](mailto:work.mayanknegi@gmail.com) -->
 
 ## 🏆 Achievements  
-- **2⭐ Coder** at CodeChef
+- **Research Paper Published**, ICASS 2026 (AI-Driven Employment Trend Forecasting)
 - **Research Paper Published**, ICIRD 2025 (AI & Generative Models)
+- **InnoSkill 2026 Winner**, Code Debugging Competition, Manav Rachna University Tech Fest 2026
 - **Winner**, Spark3 Hackathon 2024 (State Level Hackathon) by HackIndia (among 200+ teams)
 - **Winner**, YUDH 1.3 by Coding Club, Manav Rachna University  
 
@@ -28,6 +29,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **AI/ML Capabilities**: Data Preprocessing, Model Training & Evaluation, Predictive Modeling, Automation
 
 ## 💡 Projects  
+### 🏢 **Employee Leave Management System** | *Python, Flask, MySQL* | [🔗*GitHub*](https://github.com/MayankSNegi/employee-leave-management)
+- Developed a role-based full-stack web application for employee leave management, enabling leave applications,
+status tracking, cancellation, and profile management.
+- Implemented secure authentication, password hashing, role-based authorization, parameterized SQL queries, and an
+admin dashboard for filtering, approving, and rejecting leave requests.
+
 ### 📊 **MentalGlow-AI** | *Python, React.js, FastAPI, Scikit-learn* | [🔗*GitHub*](https://github.com/MayankSNegi/mentalglow-ai)
 - Developed an AI-driven mental health assessment platform that converts raw emotional data into actionable insights using ML models (92% accuracy).
 - Integrated interactive frontend with FastAPI backend, enabling real-time mental wellness assessments and
@@ -37,10 +44,6 @@ user-personalized results.
 - Engineered a dynamic web scraper to extract product details, automating data collection by 95% and reducing
 manual effort.
 - Implemented data cleaning and CSV export, improving data usability for analytics pipelines.
-
-### 🏥 **Weather Forecast Application** | *Python, Flask, OpenWeatherMap API* | [🔗*GitHub*](https://github.com/MayankSNegi/Weather-Forecast-Application)
-- Built an interactive weather app providing real-time and 7-day forecasts via API integration.
-- Optimized backend requests and UI rendering, enhancing response speed by 40% and user satisfaction.
 
 ## 🌍 Beyond Code  
 - **Languages**: English, Hindi  
